@@ -27,7 +27,7 @@ Nhưng các vũ trụ ảo đó nó có nhiều nhánh nhân quả, cho 1 giả 
 Ví dụ:
 - Hiện tại đang có chiến tranh giữa Russia và Ukraine.
 - Thì nó sẽ có nhiều nhánh vũ trụ khác đã tồn tại kiểu như: Russia chiến thắng hoặc Ukraine chiến thắng thì thế giới sẽ tiếp diễn như thế nào?
-- Và sau đó Vũ Trụ thực tại của mà chúng ta tồn tại nó sẽ diễn biến theo một trong các nhánh trên... Còn nó đi theo nhánh nào thì tôi chỉ có thể nói rằng do Trời Đất (GOD) lựa chọn... nhưng đó luôn là lựa chọn tốt nhất cho tiến hoá nhân loại.
+- Và sau đó Vũ Trụ thực tại của mà chúng ta tồn tại nó sẽ diễn biến theo một trong các nhánh trên... Còn nó đi theo nhánh nào thì tôi chỉ có thể nói rằng do Trời Đất lựa chọn... nhưng đó luôn là lựa chọn tốt nhất cho tiến hoá.
 
 ## Những ngày bị rối loạn
 

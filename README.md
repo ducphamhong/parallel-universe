@@ -19,11 +19,18 @@ Vũ trụ song song là ý tưởng đã được nhiều nhà khoa học, tiên
 
 ![sddefault](https://github.com/ducphamhong/parallel-universe/assets/57616039/1e19ff6e-045a-4a92-826e-c7fb5a484867)
 
-Cám ơn ai đó đã tạo ra những tấm hình này. Vũ trụ chúng ta tồn tại là 1 **nhánh chính**. Và nó sẽ tồn tại nhiều vũ trụ ảo với không thời gian trôi trước ở một khoảng nào đó.
+Cám ơn ai đó đã tạo ra những tấm hình này. Vũ trụ chúng ta tồn tại là 1 **nhánh chính** nhưng tôi nghĩ nó sẽ cũng tồn tại nhiều vũ trụ ảo với không thời gian trôi trước ở một khoảng nào đó.
 
 Tôi ví dụ:
-- Ở thời gian hiện tại đâng có chiến tranh giữa Ukraine và Russia.
-- Nhưng rất có thể có những vũ trụ ảo với không thời gian khác vẫn đang tồn tại 3 hoặc nhiều như:
+Ở thời gian hiện tại đang có chiến tranh giữa Ukraine và Russia.
+Nhưng rất có thể có những vũ trụ ảo với không thời gian khác vẫn đang tồn tại 3 hoặc nhiều như:
     + Vũ trụ với kết quả giữa Ukraine và Russia hoà, cùng đàm phán hoà bình.
     + Vũ trụ với kết quả Ukraine chiến thắng.
     + Vũ trụ với kết quả Russia chiến thắng.
+Thậm chí mỗi nhánh lớn này sẽ còn có những nhánh nhỏ nữa. Ví dụ nếu giữa Ukraine và Russia đàm phán thì gồm các bên nào, và sẽ rẽ tiếp những nhân quả tiếp theo.
+
+Sẽ có những nhân quả nhất định để vũ trụ hiện tại có thể rẽ vào một trong các nhánh trên.
+Và sẽ có những đối tượng bị ràng buộc nhân quả để thực thi nhân quả, dẫn dắt vũ trụ vào một trong các nhánh trên.
+
+Nhưng nó sẽ đi vào nhánh nào? Rất có thể là do mẹ thiên nhiên lựa chọn. Nếu nhánh nào mà kết có sự cân bằng về Âm Dương hay cân bằng về Kim, Mộc, Thuỷ, Hoả, Thổ nhất thì nó sẽ được lựa chọn.
+

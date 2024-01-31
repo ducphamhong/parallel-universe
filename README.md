@@ -52,4 +52,4 @@ Hình minh hoạ lấy từ [many worlds interpretation](https://en.wikipedia.or
 
 Đó là vì tôi đã trải qua nhiều ngày liên tiếp ngủ và nằm mơ thấy các ảo ảnh... Nhưng các ảo ảnh trong mơ đó nó đều có liên quan với nhau. Giống như test đi test lại một sự kiện. Nhưng khi thức dậy tôi thấy may mắn là các sự kiện đó vẫn chưa xảy ra.
 
-Nhưng có lẽ nào bộ não chúng ta có thể có một kết nối đặc biệt nào đó. Nó có thể mô phỏng lại các hình ảnh các vũ trụ ảo với các nhân quả ngẫu nhiên. Tôi nghĩ đó là lý mà các nhà tiên tri vẫn có một khả năng dự đoán được
+Nhưng có lẽ nào bộ não chúng ta có thể có một kết nối đặc biệt nào đó. Nó có thể mô phỏng lại các hình ảnh các vũ trụ ảo với các nhân quả ngẫu nhiên. Tôi nghĩ đó là lý mà các nhà tiên tri vẫn có một khả năng dự đoán được tương lai một cách mờ ảo.
